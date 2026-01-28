@@ -31,13 +31,23 @@
 ・Storage 空き容量64GB~  
 
 ### AndroidOS  
-・CPU Snapdragon 7+ Gen3またはそれ以上の性能を持つSoC  
-・RAM 10GB~(仮想ストレージ使用不可)  
+・CPU Snapdragon 6 Gen1またはそれ以上の性能を持つSoC  
+・RAM 8GB~(仮想ストレージ使用不可)  
 ・Storage 空き容量32GB~  
-
+  
+### iOS  
+iPhone15以降(Apple Intelligence対応デバイス)  
+  
+### iPadOS  
+A17 ProまたはM1以降を搭載しているデバイス(Apple Intelligence対応デバイス)  
+  
 ## ダウンロード  
-シングル、クラウド共用:zipファイル→完成後に公開します。  
-クラウドのみ:APKファイル→完成後に公開します。  
+シングル、クラウド共用:  
+zipファイル→完成後に公開します。  
+  
+クラウドのみ:  
+APKファイル→完成後に公開します。  
+Altstore→完成後に公開します。  
 
 ## セットアップ・使用方法  
 完成後に公開します。  
