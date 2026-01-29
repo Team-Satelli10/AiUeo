@@ -2,7 +2,7 @@
 好きなキャラクターと自由に交流しよう！
 
 ---
-現在シングルマシンタイプはMacOS,Windows11、クラウドタイプはAndroid,macOS,windows11に対応しております。Linux,iOS,iPadOS環境は未検証です。
+現在シングルマシンタイプはMacOS,Windows11、クラウドタイプはAndroid,macOS,windows11に対応予定。Linux,iOS,iPadOS環境も予定していますが、時間が掛かりそうです。
 
 ## 動作要件(シングルマシン)  
 ### Windows  
